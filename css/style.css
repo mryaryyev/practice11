@@ -38,3 +38,7 @@ a:hover {
 .border {
     border-bottom: 3px solid lightgray;
 }
+
+.image {
+    width: 150px;
+}
