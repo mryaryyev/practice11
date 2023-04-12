@@ -34,3 +34,7 @@ a:hover {
     width: 40px;
     height: 40px;
 }
+
+.border {
+    border-bottom: 3px solid lightgray;
+}
